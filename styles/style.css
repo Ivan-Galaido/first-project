@@ -19,7 +19,7 @@
   display: flex;
   /* выше установили ограничения для секции */
 }
-.log{
+.logo{
   position: absolute;
   z-index: 1;
   left: 64px;
