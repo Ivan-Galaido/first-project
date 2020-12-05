@@ -25,7 +25,7 @@
   position: absolute;
   height: 32px;
   z-index: 2;
-  left: 64px; 
+  left: 64px;
   top: 30px;
 }
 .header__title{
@@ -39,7 +39,7 @@
   font-weight: bold; /*насыщенность шрифта*/
 }
 .header__subtitle{
-  margin: 0;  
+  margin: 0;
   position: absolute;
   width: 388px;
   left:64px;
@@ -51,7 +51,7 @@
 }
 .header__link{
   z-index: 1;
-  color:#2f80ed; 
+  color:#2f80ed;
   text-decoration: none;
 }
 .main-illustration{
