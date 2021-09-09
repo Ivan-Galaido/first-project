@@ -1,0 +1,9 @@
+.table {
+  max-width: 1100px;
+  display: flex;
+  flex-direction: row;
+  align-content: stretch;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0;
+}
